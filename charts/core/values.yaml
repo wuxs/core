@@ -50,6 +50,15 @@ elasticsearch:
 
 etcd:
   auth:
+<<<<<<< Updated upstream
     rbac:
       enabled: false
   fullnameOverride: etcd
+=======
+    admin:
+      token: tr2zy29F1Tusl8bkBwOR
+      password: vR3MwJZIWcroG5Q4yTHL
+    user:
+      org: tkeel
+      bucket: core
+>>>>>>> Stashed changes
